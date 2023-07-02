@@ -5,10 +5,10 @@ A transactional database system created in order to learn SQL and PL/SQL and sho
 ## Features
 
 ### from customer view: 
-*renting a (random) car 
-*returning a car 
-*checking if there is a fee to be paid and paying a fee
+* renting a (random) car 
+* returning a car 
+* checking if there is a fee to be paid and paying a fee
 
 ### from company view: 
-*adding a customer 
-*reporting and analytics
+* adding a customer 
+* reporting and analytics
