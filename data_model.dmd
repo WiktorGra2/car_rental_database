@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="car_rental_final1" id="8B454338-3664-ABE8-DCF3-24D4B78B3A4A" version="3.5">
+<createdBy>wikto</createdBy>
+<createdTime>2023-04-07 12:29:05 UTC</createdTime>
+<ownerDesignName>car_rental_diagram</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>8B454338-3664-ABE8-DCF3-24D4B78B3A4A</designId>
+</OSDM_Design>
